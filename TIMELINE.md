@@ -23,6 +23,6 @@ This is a temporary page. More advanced features like filtering, notifications, 
 
 | Date | Description | Labels | Submitted by |
 | :---:        |     :---      |          :--- | :---: |
-| 2022-01-21   | Hamed Zamani and his colleagues published: [Conversational Information Seeking](https://arxiv.org/abs/2201.08808). This draft is an overview of CIS definitions, applications, interactions, interfaces, design, implementation, and evaluation.   | #Draft    | S.Nobakht|
-| 2022-01-13   | Jianfeng Gao and his colleagues published: [Neural Approaches to Conversational Information Retrieval](https://arxiv.org/abs/2201.05176). This book surveys recent advances in CIR, focusing on neural approaches that have been developed in the last few years.       | #Book      | S.Nobakht|
+| 2022-01-21   | Hamed Zamani and his colleagues published: Conversational Information Seeking. This draft overview of CIS definitions, applications, interactions, interfaces, design, implementation, and evaluation.   | #Draft    | S.Nobakht|
+| 2022-01-13   | Jianfeng Gao and his colleagues published: [Neural Approaches to Conversational Information Retrieval](https://arxiv.org/abs/2201.05176). This book surveys recent advances in CIR, focusing on neural approaches that have been developed in the last few years.    | #Book      | S.Nobakht|
 
