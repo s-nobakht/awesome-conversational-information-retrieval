@@ -23,8 +23,7 @@ This is a temporary page. More advanced features like filtering, notifications, 
 
 | Date | Entity | Labels | Submitted by |
 | :---:        |     :---      |          :--- | :---: |
-
-| 2022-01-21   |  Hamed Zamani, Johanne R Trippas, Jeff Dalton, and Filip Radlinski. 2022. [Conversational Information Seeking: An Introduction to Conversational Search, Recommendation, and Question Answering](https://eprints.gla.ac.uk/267203/). In.: now Books.   | #Draft #Book   | S.Nobakht|
+| 2022-01-21   |  Hamed Zamani, Johanne R Trippas, Jeff Dalton, and Filip Radlinski. 2022. [Conversational Information Seeking: An Introduction to Conversational Search, Recommendation, and Question Answering](https://eprints.gla.ac.uk/267203/). In.: now Books.   | #Draft #Book   | S.Nobakht |
 | 2022   |  Hamed Zamani, Johanne R Trippas, Jeff Dalton, and Filip Radlinski. 2022. [Conversational Information Seeking](https://arxiv.org/abs/2201.08808), arXiv preprint arXiv:2201.08808.   | #Draft  | S.Nobakht|
 | 2022   |  Zhenduo Wang, and Qingyao Ai. 2022. [Simulating and Modeling the Risk of Conversational Search](https://dl.acm.org/doi/10.1145/3507357), arXiv preprint arXiv:2201.00235.   | #Draft | S.Nobakht|
 | 2022   |  Ivan Sekulić, Mohammad Aliannejadi, and Fabio Crestani. 2022. [Evaluating Mixed-initiative Conversational Search Systems via User Simulation](https://dl.acm.org/doi/abs/10.1145/3488560.3498440). In Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining, 888–96. Virtual Event, AZ, USA: Association for Computing Machinery.   | #Conference #Paper | S.Nobakht|
