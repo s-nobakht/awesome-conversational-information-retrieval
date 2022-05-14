@@ -2,7 +2,7 @@
 
 This document is a curated list of awesome articles, tutorials, libraries, webpages, etc., about conversational information retrieval,
 search, and recommendation. This page is a hand-picked and shortened list of the vast amount of related content published worldwide. 
-There is also a [timeline](TIMELINE.md) that tries to capture any events related to CIR/CIS.
+There is also a [timeline](TIMELINE.md) that tries to capture any entities related to CIR/CIS.
 
 
 
@@ -17,7 +17,7 @@ There is also a [timeline](TIMELINE.md) that tries to capture any events related
   - [Clarifying Question](#clarifying-question)
   - [Evaluation](#evaluation)
   - [Datasets](#datasets)
-  - [Talks](#talks)
+  - [Videos & Talks](#videos--talks)
   - [Conferences](#conferences)
   - [External Curation Links](#external-curation-links)
   
@@ -27,12 +27,12 @@ Conversational information seeking (CIS) is concerned with a sequence of interac
 This repository is designed to index and reflect the primary resources in the CIS and CIR fields. It is an ongoing project and will be updated regularly. Any contribution via sending pull requests is appreciated.
 
 ## Timeline
-This is the [CIR/CIS any events Timeline](TIMELINE.md)! The latest uncategorized events can be found here. 
-In this section every new event is reflected chronologically. It is separated to another document to saving the structure of this document.
+This is the [CIR/CIS any entity Timeline](TIMELINE.md)! The latest uncategorized entities can be found here. 
+In this section every new entity is reflected chronologically. It is separated to another document to saving the structure of this document.
 
 ## Contributing
 The repository is under construction. Please feel free to send me [pull requests](https://github.com/s-nobakht/awesome-conversational-information-retrieval/pulls) to add links, any corrections or suggestions. You can also send me email: `sd[DOT]nobakht[ATT]gmail[DOT]com`. 
-For the hottest events, check the [timeline](TIMELINE.md). There is also a [submission form](https://forms.gle/aizPoFWNbEDSUPLy9) for ease of contribution.
+For the hottest entities, check the [timeline](TIMELINE.md). There is also a [submission form](https://forms.gle/aizPoFWNbEDSUPLy9) for ease of contribution.
 
 
 ## Surveys 
@@ -43,6 +43,14 @@ For the hottest events, check the [timeline](TIMELINE.md). There is also a [subm
   - 2022 | [Neural Approaches to Conversational Information Retrieval](https://arxiv.org/abs/2201.05176)
     - Jianfeng Gao, Chenyan Xiong, Paul Bennett, Nick Craswell.
     - Preprint of book draft.
+    
+  - 2021 | [Advances and Challenges in Conversational Recommender Systems: A Survey](https://arxiv.org/abs/2101.09459)
+    - Chongming Gao, Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua.
+    - AI Open, 2:100–126, July 2021.
+    
+  - 2021 | [RecSys 2021 Tutorial on Conversational Recommendation: Formulation, Methods, and Evaluation](https://dl.acm.org/doi/abs/10.1145/3460231.3473325).
+    - Lei, Wenqiang, Chongming Gao, and Maarten de Rijke.
+    - In Fifteenth ACM Conference on Recommender Systems, 842-44.
 
 ## Theoretical Developments 
   - 2018 | [Conceptualizing Agent-Human Interactions During the Conversational Search Process](https://core.ac.uk/download/pdf/159074386.pdf).
@@ -130,30 +138,6 @@ For the hottest events, check the [timeline](TIMELINE.md). There is also a [subm
     - Pavel Braslavski, Denis Savenkov, Eugene Agichtein, and Alina Dubatovka  
     - Proceedings of the 2017 Conference on Conference Human Information Interaction and Retrieval, 2017.
     
-[comment]: <> (  - 2009 | [Exploratory Search: Beyond the Query-Response Paradigm]&#40;https://ieeexplore.ieee.org/abstract/document/6812556&#41;.)
-
-[comment]: <> (    - Ryen W. White and Resa A. Roth.  )
-
-[comment]: <> (    - Synthesis Lectures on Information Concepts, Retrieval, and Services, 2009.)
-
-[comment]: <> (  - 2019 | []&#40;&#41;.)
-
-[comment]: <> (    - Mohammad  )
-
-[comment]: <> (    - Proceedings)
-    
-[comment]: <> (  - 2019 | []&#40;&#41;.)
-
-[comment]: <> (    - Mohammad  )
-
-[comment]: <> (    - Proceedings)
-
-[comment]: <> (  - 2019 | []&#40;&#41;.)
-
-[comment]: <> (    - Mohammad  )
-
-[comment]: <> (    - Proceedings)
-
 
 ## Evaluation
   - 2022 | [Evaluating Mixed-initiative Conversational Search Systems via User Simulation](https://dl.acm.org/doi/abs/10.1145/3488560.3498440).
@@ -185,16 +169,19 @@ For the hottest events, check the [timeline](TIMELINE.md). There is also a [subm
     - Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieva (SIGIR), 2019.
     - Qulac dataset.
 
-## Talks
-  - 2019 | []().
-    - Mohammad  
-    - Proceedings
+## Videos & Talks
+  - 2021 | [Theories of Conversation for Conversational IR](https://www.youtube.com/watch?v=pfkPT9Ihr_M).
+    - Paul Thomas, Mary Czerwinski, Daniel McDu, Nick Craswell.
+    - ACM Trans. Inf. Syst., 39: Article 39.
 
-  - 2019 | []().
-    - Mohammad  
-    - Proceedings
-
-
+  - 2020 | [Recent Advances in Conversational Information Retrieval](https://www.bilibili.com/video/BV1dA411a7tg/).
+    - Jianfeng Gao, Chenyan Xiong, and Paul Bennett. 
+    - Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (Association for Computing Machinery).
+  
+  - 2020 | [RecSys 2020 Tutorial: Conversational Recommender Systems](https://www.youtube.com/watch?v=RdGnJSRA0aw).
+    - Yongfeng Zhang, Zuohui Fu, Yikun Xian, and Yi Zhang.  
+    - The ACM Conference Series on Recommender Systems, RecSys 2020.
+    
 
 ## Conferences
 - Web Search and Data Mining Conference - [WSDM](http://www.wsdm-conference.org).
