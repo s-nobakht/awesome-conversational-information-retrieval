@@ -32,7 +32,7 @@ In this section every new event is reflected chronologically. It is separated to
 
 ## Contributing
 The repository is under construction. Please feel free to send me [pull requests](https://github.com/s-nobakht/awesome-conversational-information-retrieval/pulls) to add links, any corrections or suggestions. You can also send me email: `sd[DOT]nobakht[ATT]gmail[DOT]com`. 
-For the hottest events, check the [timeline](TIMELINE.md).
+For the hottest events, check the [timeline](TIMELINE.md). There is also a [submission form](https://forms.gle/aizPoFWNbEDSUPLy9) for ease of contribution.
 
 
 ## Surveys 
