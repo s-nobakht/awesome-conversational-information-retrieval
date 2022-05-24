@@ -182,6 +182,10 @@ For the hottest entities, check the [timeline](TIMELINE.md). There is also a [su
     - Yongfeng Zhang, Zuohui Fu, Yikun Xian, and Yi Zhang.  
     - The ACM Conference Series on Recommender Systems, RecSys 2020.
     
+  - 2020 | [LTI Colloquium: Towards Mixed-Initiative Conversational Search](https://www.youtube.com/watch?v=d1_DMizAT5A).
+    - Hamed Zamani
+    - Language Technologies Institute at Carnegie Mellon
+    
 
 ## Conferences
 - Web Search and Data Mining Conference - [WSDM](http://www.wsdm-conference.org).
